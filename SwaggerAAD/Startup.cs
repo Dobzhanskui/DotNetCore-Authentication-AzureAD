@@ -110,7 +110,7 @@ namespace SwaggerAAD
             {
                 var clientId = Configuration.GetValue<string>("AzureAd:ClientId");
                 c.OAuthClientId(clientId);
-                c.OAuthClientSecret(Configuration.GetValue<string>("Swagger:ClientSecret"));
+                //c.OAuthClientSecret(Configuration.GetValue<string>("Swagger:ClientSecret"));
                 c.OAuthRealm(clientId);
                 c.OAuthAppName("SwaggerAAD API v1");
                 c.OAuthScopeSeparator(" ");
