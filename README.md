@@ -60,7 +60,7 @@ Replace the *{tenantId}* to your application with azure portal.
 Replace the *{clientId}* to your application with azure portal.
 
 <p align="center">
-  <img src="https://prnt.sc/taznl4"/>
+  <img src="https://image.prntscr.com/image/Lyk7dH9LSzGWH2wkvArgZg.png"/>
 </p>
 
 For more details visit website <a href="https://docs.microsoft.com/en-us/azure/active-directory/develop/howto-create-service-principal-portal#get-tenant-and-app-id-values-for-signing-in" target="_blank">`Get tenant and app ID values for signing in`</a>.
