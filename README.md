@@ -54,13 +54,13 @@ In the appsettings.json find section **AzureAd**
 Replace the *{tenantId}* to your application with azure portal.
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1_nw5IsS1rMpElO4kPx9cp8RgSYiaSHle"/>
+  <img src="https://drive.google.com/uc?export=view&id=1oosClo4DyLxEpGFdrtsjtmSSr8fXowRl"/>
 </p>
 
 Replace the *{clientId}* to your application with azure portal.
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1yRqilNG7j8zyZ_1GApUdfwlYFtKJs08S"/>
+  <img src="https://drive.google.com/uc?export=view&id=1bB0ZltgD0lqwML_uwzgTsVmgFzw6-Mu-"/>
 </p>
 
 For more details visit website <a href="https://docs.microsoft.com/en-us/azure/active-directory/develop/howto-create-service-principal-portal#get-tenant-and-app-id-values-for-signing-in" target="_blank">`Get tenant and app ID values for signing in`</a>.
