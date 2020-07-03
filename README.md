@@ -11,19 +11,19 @@ After register the application.
 Select **API permissions** use the *User.Read* (added by default) permission.
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=12VOYMMo8XFSO1nXzCWJd0CCpYb4vlJWm"/>
+  <img src="https://image.prntscr.com/image/6EF4x-CHScWNqjXhOWA_dw.png"/>
 </p>
 
 After select **Authentication** click the button *Add a platform*.
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1CguP-JhR2QVVLXB34IVYz9YP0NQYARkL"/>
+  <img src="https://image.prntscr.com/image/diRfag3YQMWF_8PU8eSNdA.png"/>
 </p>
 
 Next **Configure platforms** select *Web*.
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1t5Jzh6zW1t50KuQ8GSoIwxnQbUY5I_gf"/>
+  <img src="https://image.prntscr.com/image/7f6l29ghQQ6oIuE5DAh3kg.png"/>
 </p>
 
 Finally **Configure Web** fill in the first text box *https://localhost:44315/swagger/oauth2-redirect.html*. 
@@ -31,7 +31,7 @@ Finally **Configure Web** fill in the first text box *https://localhost:44315/sw
 Section *Implicit grant* for web app, select *ID tokens* and *Access tokens*.
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1r2hSHrY4Lg7ICepxQKGtUsfCO3a-egJ8"/>
+  <img src="https://image.prntscr.com/image/bdr3WazqR4G6G7tXGheHXA.png"/>
 </p>
 
 For more details visit website <a href="https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-configure-app-access-web-apis#configure-platform-settings-for-your-application" target="_blank">`Configure platform settings for your application`</a>.
@@ -54,7 +54,7 @@ In the appsettings.json find section **AzureAd**
 Replace the *{tenantId}* to your application with azure portal.
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1oosClo4DyLxEpGFdrtsjtmSSr8fXowRl"/>
+  <img src="https://image.prntscr.com/image/LR1wTrHPQ6S2g7taZKjv7w.png"/>
 </p>
 
 Replace the *{clientId}* to your application with azure portal.
