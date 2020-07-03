@@ -28,10 +28,10 @@ Next **Configure platforms** select *Web*.
 
 Finally **Configure Web** fill in the first text box *https://localhost:44315/swagger/oauth2-redirect.html*. 
 
-Section *Implicit grant* for web app, select *ID tokens*.
+Section *Implicit grant* for web app, select *ID tokens* and *Access tokens*.
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=18QZLRsHLs-xAmkDVjwdL9rcciqpZ4rYA"/>
+  <img src="https://drive.google.com/uc?export=view&id=1BDQOoskf8dLAId46uRnbaHboMhbuqkpk"/>
 </p>
 
 For more details visit website <a href="https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-configure-app-access-web-apis#configure-platform-settings-for-your-application" target="_blank">`Configure platform settings for your application`</a>.
